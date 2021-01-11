@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
             This is first React App by Tarun Patel !! Hello There !!
+            How are u doin man !
         </p>
       </header>
     </div>
